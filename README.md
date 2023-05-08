@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solved-c-allows-pointers-to-stack-dynamic-variables
+<br>
+C++ allows pointers to stack-dynamic variables. Consider the following C++ function: int twice(int x) { int *y; *y = x * 2; return *y; } Will the above function compile in C++? Is it correct? If not, under what circumstances will it fail and how should it be corrected? Consider one other language that has pointers. Does that language have the same problem? Explain.
